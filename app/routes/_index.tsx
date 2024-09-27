@@ -34,6 +34,9 @@ export default function Index() {
         <li>
           <a href="/session-get">session-get</a>
         </li>
+        <li>
+          <a href="https://github.com/jiangsi/hono-remix-vite-on-cloudflare">hono-remix-vite-on-cloudflare at github</a>
+        </li>
       </ul>
       <img src="/assets/hono-logo.png" />
     </div>
