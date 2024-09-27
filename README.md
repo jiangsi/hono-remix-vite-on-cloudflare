@@ -30,7 +30,10 @@ and then I build this project and deploy to cloudflare pages
 
 ## live video
 
-https://github.com/jiangsi/public/blob/main/img/honoremix.mp4
+https://youtu.be/kEHYDz-wuGY
+
+[![Watch the video](https://img.youtube.com/vi/kEHYDz-wuGY/maxresdefault.jpg)](https://youtu.be/kEHYDz-wuGY)
+
 
 ## Demo
 
